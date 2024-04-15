@@ -1,0 +1,31 @@
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\bin\Debug\Client.exe.config
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\bin\Debug\Client.exe
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\bin\Debug\Client.pdb
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\bin\Debug\Memory.dll
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\bin\Debug\Memory.xml
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\obj\Debug\Client.Form1.resources
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\obj\Debug\Client.exe
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\obj\Debug\Client.pdb
+C:\Users\mcpe357\Desktop\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\mcpe357\Desktop\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\mcpe357\Desktop\Client\obj\Debug\Client.Form1.resources
+C:\Users\mcpe357\Desktop\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\mcpe357\Desktop\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\mcpe357\Desktop\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\mcpe357\Desktop\Client\obj\Debug\Client.exe
+C:\Users\mcpe357\Desktop\Client\obj\Debug\Client.pdb
+C:\Users\mcpe357\Desktop\test\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\mcpe357\Desktop\test\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\mcpe357\Desktop\test\obj\Debug\Client.Form1.resources
+C:\Users\mcpe357\Desktop\test\obj\Debug\Client.Properties.Resources.resources
+C:\Users\mcpe357\Desktop\test\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\mcpe357\Desktop\test\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\mcpe357\Desktop\test\obj\Debug\Client.exe
+C:\Users\mcpe357\Desktop\test\obj\Debug\Client.pdb

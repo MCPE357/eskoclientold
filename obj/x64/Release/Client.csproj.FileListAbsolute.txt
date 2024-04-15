@@ -1,0 +1,15 @@
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\bin\x64\Release\Client.exe.config
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\bin\x64\Release\Client.exe
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\bin\x64\Release\Client.pdb
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\bin\x64\Release\Memory.dll
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\bin\x64\Release\System.Security.Principal.Windows.dll
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\bin\x64\Release\Memory.xml
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\bin\x64\Release\System.Security.Principal.Windows.xml
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\obj\x64\Release\Client.Form1.resources
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\obj\x64\Release\Client.Properties.Resources.resources
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\obj\x64\Release\Client.csproj.GenerateResource.cache
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\obj\x64\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\obj\x64\Release\Client.csproj.CopyComplete
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\obj\x64\Release\Client.exe
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\obj\x64\Release\Client.pdb
+C:\Users\esuge\OneDrive\Desktop\New folder\DarkForces-V2-main\Client\obj\x64\Release\Client.csproj.AssemblyReference.cache
